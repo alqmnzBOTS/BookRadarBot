@@ -42,7 +42,7 @@ Telegram бот для поиска книжных новинок по жанр�
 ### Инструкция
 
 1. Клонируйте репозиторий:
-git clone https://github.com/your_username/BookRadarBot.git
+git clone https://github.com/alqmnzBOTS/BookRadarBot.git
 cd BookRadarBot
 2. Отредактируйте файл .env:
 BOT_TOKEN=ваш_токен_бота_от_BotFather
